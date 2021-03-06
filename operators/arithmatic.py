@@ -19,3 +19,5 @@ a*=b
 a%=b
 a=b
 '''
+
+#@ lacture 2
