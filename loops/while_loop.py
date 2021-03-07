@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # for           (list/tuple/object/iterable object)
-# while         (while loop executes itself untill a block of code is executed)
+# while         (while loop executes itself untill a block of code is executed untill a certain condition is not met)
 
 
 #for loop to print all the values of my_list
